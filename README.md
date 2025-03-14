@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3800&pause=1000&color=909090FF&width=435&lines=%22Life+is+worth+living.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3800&pause=1000&color=909090FF&width=435&lines=Life+is+worth+living.)](https://git.io/typing-svg)
 
 <img align="left" src="https://i.imgur.com/E7RNrjt.png" width="147"/>
 
