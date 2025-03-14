@@ -5,5 +5,4 @@ telegram  $  @t0rnly
 ```
 &zwnj; 
 &zwnj; 
-
 ![](https://komarev.com/ghpvc/?username=7sck)
