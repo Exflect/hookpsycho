@@ -1,8 +1,1 @@
-```csharp
-github.com/7sck
-discord   $  @hci5
-telegram  $  @t0rnly
-```
-&zwnj;
-&zwnj;
-![](https://komarev.com/ghpvc/?username=7sck)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1290478829168623616?showDisplayName=false&hideDecoration=false&theme=dark&idleMessage=%22The%20memory%20of%20everything%20is%20very%20soon%20overwhelmed%20in%20time.%22&hideDiscrim=false)](https://discord.com/users/1290478829168623616)
