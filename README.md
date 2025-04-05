@@ -2,5 +2,5 @@
 - **18 year old full-stack developer** with ~3.5 years of programming experience  
 - **cybersecurity student** certified in cs50 cysa itf+  
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=0hook&color=lightgrey" alt="fax" width="" height="">
+  <img src="https://komarev.com/ghpvc/?username=0hook&color=lightgrey" alt="" width="" height="">
 </p>
