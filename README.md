@@ -3,11 +3,9 @@
 - **18 year old full-stack developer** with ~3.5 years of programming experience  
 - **Cybersecurity student** certified in CS50, CySA+, ITF+
 
-<img src="https://komarev.com/ghpvc/?username=0hook&color=grey" alt="view counter">
-
 ---
 
-### ! Tech Stack
+### Tech Stack
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
