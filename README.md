@@ -9,7 +9,7 @@
     \|__|\|__| \|_______| \|_______| \|__| \|__|
 </code></pre>
 
-```
+```txt
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau         OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 C#           OOOOOOOOOOOOOOOOOOOOO....    90 %
