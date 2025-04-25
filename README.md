@@ -1,4 +1,31 @@
-[![discord presence](https://lanyard.cnrad.dev/api/1290478829168623616?hideBadges=true&idleMessage=%22The%20memory%20of%20everything%20is%20very%20soon%20overwhelmed%20in%20time.%22)](https://discord.com/users/1290478829168623616)
+<div align="center">
+<pre><code>
 
-- **18 year old full-stack developer** with ~3.5 years of programming experience  
-- **Cybersecurity student** certified in CS50, CySA+, ITF+
+ ___  ___  ________  ________  ___  __       
+|\  \|\  \|\   __  \|\   __  \|\  \|\  \     
+\ \  \\\  \ \  \|\  \ \  \|\  \ \  \/  /|_   
+ \ \   __  \ \  \\\  \ \  \\\  \ \   ___  \  
+  \ \  \ \  \ \  \\\  \ \  \\\  \ \  \\ \  \ 
+   \ \__\ \__\ \_______\ \_______\ \__\\ \__\
+    \|__|\|__|\|_______|\|_______|\|__| \|__|
+
+</code></pre>
+
+<!--START_SECTION:waka-->
+
+### Tech Stack Usage
+
+```txt
+Python          OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
+Luau            OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
+C#              OOOOOOOOOOOOOOOOOOOOO....    90 %
+React           OOOOOOOOOOOOOOOOOOO......    85 %
+Golang          OOOOOOOOOOOOOOOOOO.......    80 %
+Node.js         OOOOOOOOOOOOOOOOOO.......    80 %
+TypeScript      OOOOOOOOOOOOOOOO.........    75 %
+Bash            OOOOOOOOOOOOO............    70 %
+Next.js         OOOOOOOOOOOO.............    60 %
+C++             OOOOOOO..................    40 %
+```
+
+<!--END_SECTION:waka-->
