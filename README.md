@@ -10,8 +10,6 @@
 
 </code></pre>
 
-<!--START_SECTION:waka-->
-
 ```txt
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau         OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
@@ -24,5 +22,3 @@ Bash         OOOOOOOOOOOOO............    70 %
 Next.js      OOOOOOOOOOOO.............    60 %
 C++          OOOOOOO..................    40 %
 ```
-
-<!--END_SECTION:waka-->
