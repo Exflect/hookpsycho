@@ -13,8 +13,6 @@
 
 <!--START_SECTION:waka-->
 
-### Tech Stack Usage
-
 ```txt
 Python          OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau            OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
