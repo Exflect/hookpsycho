@@ -22,7 +22,7 @@ Golang       OOOOOOOOOOOOOOOOOOOO.....    85 %
 React        OOOOOOOOOOOOOOOOOOO......    80 %
 TypeScript   OOOOOOOOOOOOOOOO.........    75 %
 C++          OOOOOOOOOOOOOOO..........    65 %
-Next.js      OOOOOOOOOOOO.............    60 %
+Next.js      OOOOOOOOOOOO.............    55 %
 ```
 
 <!--END_SECTION:Skills-->
