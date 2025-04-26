@@ -15,14 +15,14 @@
 ```txt
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau         OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
-C#           OOOOOOOOOOOOOOOOOOOOO....    90 %
+C#           OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
+Node.js      OOOOOOOOOOOOOOOOOOOO.....    90 %
+Bash         OOOOOOOOOOOOOOOOOOOOO....    90 %
+Golang       OOOOOOOOOOOOOOOOOOOO.....    85 %
 React        OOOOOOOOOOOOOOOOOOO......    85 %
-Golang       OOOOOOOOOOOOOOOOOO.......    80 %
-Node.js      OOOOOOOOOOOOOOOOOO.......    80 %
 TypeScript   OOOOOOOOOOOOOOOO.........    75 %
-Bash         OOOOOOOOOOOOO............    70 %
+C++          OOOOOOOOOOOOOOO..........    65 %
 Next.js      OOOOOOOOOOOO.............    60 %
-C++          OOOOOOO..................    40 %
 ```
 
 <!--END_SECTION:Skills-->
