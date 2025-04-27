@@ -25,10 +25,8 @@ C++          OOOOOOOOOOOOOOO..........    65 %
 Next.js      OOOOOOOOOOOO.............    55 %
 ```
 
-```
-
+<pre><code>
 self made.
-
-```
+</code></pre>
 
 <!--END_SECTION:Skills-->
