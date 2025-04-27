@@ -25,4 +25,8 @@ C++          OOOOOOOOOOOOOOO..........    65 %
 Next.js      OOOOOOOOOOOO.............    55 %
 ```
 
+```txt
+[Telegram](https://t.me/t0rnly), [Discord](https://discord.com/users/1290478829168623616)
+```
+
 <!--END_SECTION:Skills-->
