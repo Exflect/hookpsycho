@@ -26,7 +26,7 @@ Next.js      OOOOOOOOOOOO.............    55 %
 ```
 
 ```
-[Telegram](https://t.me/t0rnly), [Discord](https://discord.com/users/1290478829168623616)
+self made.
 ```
 
 <!--END_SECTION:Skills-->
