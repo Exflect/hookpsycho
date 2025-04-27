@@ -1,9 +1,9 @@
-<div align="center">
-  
 Discord: `@.hook (1274935101561770037)`  
 Email: <a href="mailto:hookly@protonmail.com">hookly@protonmail.com</a>
 
 ---
+<div align="center">
+  
 <!--START_SECTION:Skills-->
 ```
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
