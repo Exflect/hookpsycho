@@ -1,8 +1,10 @@
 <div align="center">
+  
 ```
 Discord: `@shiawaseu (1115643711666278521)`  
 Email: <a href="mailto:shiawaseu@proton.me">shiawaseu@proton.me</a>
 ```
+  
 ---
 
 <!--START_SECTION:Skills-->
