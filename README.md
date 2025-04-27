@@ -9,18 +9,18 @@ Email: <a href="mailto:hookly@protonmail.com">hookly@protonmail.com</a>
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau         OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 C#           OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
-Tailwind     OOOOOOOOOOOOOOOOOOOOO....    95 %
-HTML5        OOOOOOOOOOOOOOOOOOOOO....    95 %
-Bash         OOOOOOOOOOOOOOOOOOOOO....    90 %
-Node.js      OOOOOOOOOOOOOOOOOOOO.....    85 %
-Golang       OOOOOOOOOOOOOOOOOOOO.....    85 %
-CSS3         OOOOOOOOOOOOOOOOOOO......    80 %
-React        OOOOOOOOOOOOOOOOOOO......    80 %
-TypeScript   OOOOOOOOOOOOOOOO.........    75 %
-C++          OOOOOOOOOOOOOOO..........    65 %
-Git          OOOOOOOOOOOOOO...........    60 %
-Next.js      OOOOOOOOOOOO.............    55 %
-C            OOOOOOOOOOO..............    30 %
-PHP          OOO......................    20 %
+Tailwind     OOOOOOOOOOOOOOOOOOOO....    95 %
+HTML5        OOOOOOOOOOOOOOOOOOOO....    95 %
+Bash         OOOOOOOOOOOOOOOOOO......    90 %
+Node.js      OOOOOOOOOOOOOOOOO.......    85 %
+Golang       OOOOOOOOOOOOOOOOO.......    85 %
+CSS3         OOOOOOOOOOOOOOOOO.......    85 %
+React        OOOOOOOOOOOOOOOO........    80 %
+TypeScript   OOOOOOOOOOOOOO..........    75 %
+C++          OOOOOOOOOOOOO...........    65 %
+Git          OOOOOOOOOOOO............    60 %
+Next.js      OOOOOOOOOO..............    55 %
+C            OOOOOO..................    30 %
+PHP          OOOO....................    20 %
 ```
 <!--END_SECTION:Skills-->
