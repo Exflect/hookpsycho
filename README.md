@@ -14,7 +14,7 @@ HTML5        OOOOOOOOOOOOOOOOOOOOO....    95 %
 Bash         OOOOOOOOOOOOOOOOOOOOO....    90 %
 Node.js      OOOOOOOOOOOOOOOOOOOO.....    85 %
 Golang       OOOOOOOOOOOOOOOOOOOO.....    85 %
-CSS3         OOOOOOOOOOOOOOOOOOO......    85 %
+CSS3         OOOOOOOOOOOOOOOOOOO......    80 %
 React        OOOOOOOOOOOOOOOOOOO......    80 %
 TypeScript   OOOOOOOOOOOOOOOO.........    75 %
 C++          OOOOOOOOOOOOOOO..........    65 %
