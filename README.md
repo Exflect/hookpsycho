@@ -12,7 +12,7 @@
 
 <!--START_SECTION:Skills-->
 
-```txt
+```
 Python       OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 Luau         OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
 C#           OOOOOOOOOOOOOOOOOOOOOOOO.   100 %
@@ -25,7 +25,7 @@ C++          OOOOOOOOOOOOOOO..........    65 %
 Next.js      OOOOOOOOOOOO.............    55 %
 ```
 
-```txt
+```
 [Telegram](https://t.me/t0rnly), [Discord](https://discord.com/users/1290478829168623616)
 ```
 
