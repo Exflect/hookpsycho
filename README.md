@@ -19,13 +19,10 @@
 
 <h2>Socials</h2>
 <div align="left">
-  <a href="https://discord.com/users/131100342850027520">
+  <a href="https://discord.com/users/1290478829168623616">
     <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@matas3535">
-    <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://t.me/t0rnly">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <br/><br/>
-  <strong>Discord:</strong> <code>@.hook</code> (1274935101561770037)<br/>
-  <strong>Email:</strong> <a href="mailto:hookly@protonmail.com">hookly@protonmail.com</a>
 </div>
