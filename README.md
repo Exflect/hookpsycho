@@ -1,28 +1,9 @@
-<h2>Languages</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-e13714?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-03599c?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Assembly-3056bf?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-bd2c2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-57a645?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Php-777bb3?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Css-663399?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perl-00709d?style=for-the-badge&logo=perl&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&color=808080&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Exflect" />
+</p>
 
-<h2>Socials</h2>
-<div align="left">
-  <a href="https://discord.com/users/1290478829168623616">
-    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://t.me/t0rnly">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exflect&theme=dark&hide_border=true&background=00000000" />
+</p>
